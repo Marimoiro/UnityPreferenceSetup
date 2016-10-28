@@ -1,0 +1,2 @@
+# UnityPreferenceSetup
+unityのPreferenceの設定をバッチからするサンプル的なやつ
